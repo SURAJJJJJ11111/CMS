@@ -173,9 +173,3 @@ CRITICAL > HIGH > MEDIUM > LOW, then createdAt ASC
 - ✅ Swagger/OpenAPI at `/swagger-ui.html`
 
 ---
-
-## 💼 Resume Bullet Points
-
-> *"Built a role-based complaint escalation platform with SLA tracking, automated escalation workflows, real-time WebSocket notifications, and analytics dashboards using Spring Boot 3 and React 18."*
-
-> *"Implemented a status workflow FSM (OPEN→IN_PROGRESS→RESOLVED→CLOSED) with department-scoped agent assignment, JWT RBAC for 3 roles, and scheduled auto-escalation using `@Scheduled` and Spring Security `@PreAuthorize`."*
